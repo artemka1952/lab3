@@ -8,7 +8,7 @@
  *
  * @author var1541b
  */
-public class task1 {
+public class Task1 {
 
     public static void main(String[] args) {
 
@@ -21,6 +21,5 @@ public class task1 {
                 j++;
             }
         }
-
     }
 }
